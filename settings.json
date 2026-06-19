@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "AfkBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "NorthWind.aternos.me",
+    "port": 33401,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -28,11 +28,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 500,
+      "repeat-delay": 5000,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "(automated message) this account is a 24/7 bot so the server doesnt shut down",
+        "Subscribe to Thyago! (automated message) this account is a 24/7 bot so the server doesnt shut down",
+        "am pro (automated message) this account is a 24/7 bot so the server doesnt shut down"
       ]
     },
     "chat-log": true,
